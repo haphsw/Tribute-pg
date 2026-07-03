@@ -57,13 +57,13 @@ p{
 }
 
 
-#about, #qualities{
+#about, #attributes{
     width: 80%;
     margin: 30px auto;
     padding: 20px;
 }
 
-#about h2, #qualities h2{
+#about h2, #attributes h2{
     color: gold;
     margin-bottom: 15px;
     border-bottom: 2px solid gold;
